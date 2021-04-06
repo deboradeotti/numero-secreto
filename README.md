@@ -1,2 +1,3 @@
-# numero-secreto
-Jogo de adivinhação
+# Número secreto  🔮
+
+Joguinho de adivinhação com temática inspirada em Star Wars
